@@ -40,7 +40,7 @@ void draw() {
     pg.textAlign(CENTER);
     pg.fill(255);
     pg.text("wabi", 15, 9);
-    pg.text("sabi", 15, 18);
+    pg.text("sabi", 15, 19);
     //drawType(pg,pg.width * 0.5);
     //pg.ellipse(pg.width / 2, pg.height / 2, scale, scale);
     pg.loadPixels();
